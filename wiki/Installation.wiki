@@ -1,0 +1,10 @@
+#labels Phase-Deploy
+These are the install instructions for my script:
+
+1) download the file (for example with '*wget*')
+2) make the file executable ('*chmod +x installer.sh*')
+3) finally: run it! ('*./installer.sh*')
+
+The commands are in the brackets.
+
+Supported OS': *Debian 6*, *minimal* installation
