@@ -18,4 +18,4 @@
  * intl
 
 = FTP Servers = 
- * PureFTPD
+ * PureFTPD (MySQL managed users?)
