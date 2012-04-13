@@ -1,0 +1,10 @@
+#summary List of Available Services
+
+= HTTP Servers =
+
+ * nginx
+
+
+= Database Server =
+
+ * MySQL
