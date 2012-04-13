@@ -1,4 +1,3 @@
-
 = HTTP Servers =
 
  * Apache 2
@@ -17,3 +16,6 @@
  * MySQLi
  * CURL
  * intl
+
+= FTP Servers = 
+ * PureFTPD
