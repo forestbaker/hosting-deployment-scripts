@@ -1,6 +1,5 @@
 = HTTP Servers =
 
- * Apache 2
  * Lighttpd
 
 = Database Servers =
