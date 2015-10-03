@@ -1,0 +1,20 @@
+# HTTP Servers #
+
+  * Lighttpd
+
+# Database Servers #
+  * -
+
+# Languages #
+  * PHP 5
+
+# PHP Extensions #
+
+  * GD2
+  * MySQL
+  * MySQLi
+  * CURL
+  * intl
+
+# FTP Servers #
+  * PureFTPD (MySQL managed users?)

@@ -1,0 +1,1 @@
+Caston Installer: Bash script that simplify new linux server deployments
